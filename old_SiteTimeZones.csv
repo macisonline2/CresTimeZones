@@ -1,0 +1,389 @@
+SiteName,TimeZoneDisplayName10,CrestronTimeZoneId,IgnoreDaylightSavingRules
+ABA__,(UTC+01:00) West Central Africa,41,FALSE
+ABIDJ,(UTC) Coordinated Universal Time,35,FALSE
+ABUJA,(UTC+01:00) West Central Africa,41,FALSE
+ACCRA,(UTC) Coordinated Universal Time,35,FALSE
+ADELA,(UTC+09:30) Adelaide,87,FALSE
+ALABA,(UTC+08:00) Taipei,78,FALSE
+ALBER,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+ALBUQ,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+ANCHO,(UTC-09:00) Alaska,4,FALSE
+ANTAN,(UTC+03:00) Nairobi,55,FALSE
+ANTOF,(UTC-04:00) Santiago,20,FALSE
+APIA_,(UTC+13:00) Samoa,1,TRUE
+AREQU,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+ARIZO,(UTC-07:00) Arizona,8,FALSE
+ASUNC,(UTC-04:00) Asuncion,22,FALSE
+ATLAN,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+AUCKL,"(UTC+12:00) Auckland, Wellington",96,FALSE
+AUSTI,(UTC-06:00) Central Time (US & Canada),10,FALSE
+BACCA,(UTC-03:00) City of Buenos Aires,27,FALSE
+BACOL,(UTC+08:00) Taipei,78,FALSE
+BAHIA,(UTC-03:00) Brasilia,24,FALSE
+BAIRE,(UTC-03:00) City of Buenos Aires,27,FALSE
+BAKER,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+BANGK,"(UTC+07:00) Bangkok, Hanoi, Jakarta",75,FALSE
+BARCE,"(UTC+00:00) Dublin, Edinburgh, Lisbon, London",33,FALSE
+BARRA,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+BEIRA,"(UTC+02:00) Harare, Pretoria",47,FALSE
+BELEM,(UTC-03:00) Brasilia,24,FALSE
+BELO_,(UTC-03:00) Brasilia,24,FALSE
+BENEM,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,FALSE
+BENGA,"(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",68,FALSE
+BENIN,(UTC+01:00) West Central Africa,41,FALSE
+BENTO,(UTC-06:00) Central Time (US & Canada),10,FALSE
+BILLI,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+BIRMI,(UTC-06:00) Central Time (US & Canada),10,FALSE
+BISMA,(UTC-06:00) Central Time (US & Canada),10,FALSE
+BOGOT,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+BOISE,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+BOSTO,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+BOUNT,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+BRASI,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",19,FALSE
+BRAZZ,(UTC+01:00) West Central Africa,41,FALSE
+BRIGH,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+BRISB,(UTC+10:00) Brisbane,89,FALSE
+BROUG,(UTC-06:00) Central Time (US & Canada),10,FALSE
+BRUSS,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",39,FALSE
+BUDAP,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",37,FALSE
+BURLE,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+BUSAN,(UTC+09:00) Seoul,83,FALSE
+CAGAY,(UTC+08:00) Taipei,78,FALSE
+CALAB,(UTC+01:00) West Central Africa,41,FALSE
+CALDW,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+CALGA,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+CALI_,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+CAMPI,(UTC-03:00) Brasilia,24,FALSE
+CAMPO,((UTC-04:00) Cuiaba),21,FALSE
+CANCU,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+CAPEC,(UTC) Coordinated Universal Time,35,FALSE
+CAPET,"(UTC+02:00) Harare, Pretoria",47,FALSE
+CARAC,(UTC-04:00) Caracas,18,FALSE
+CASPE,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+CEBUP,(UTC+08:00) Taipei,78,FALSE
+CEDAR,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+CHARL,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+CHICA,(UTC-06:00) Central Time (US & Canada),10,FALSE
+CHICL,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+CHIHU,"(UTC-07:00) Chihuahua, La Paz, Mazatlan",9,TRUE
+CHORR,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+CINCI,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+CIUJU,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+CLEVE,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+COBAN,(UTC-06:00) Central America,12,FALSE
+COCHA,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",19,FALSE
+CODY_,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+COEUR,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+COLJU,"(UTC-07:00) Chihuahua, La Paz, Mazatlan",9,TRUE
+COLOR,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+COLSC,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+COLUM,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+CONCE,(UTC-04:00) Santiago,20,FALSE
+COPEN,"(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",39,FALSE
+CORDO,(UTC-03:00) City of Buenos Aires,27,FALSE
+CRIVE,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+CUERN,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,FALSE
+CULIA,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,FALSE
+CURIT,(UTC-03:00) Brasilia,24,FALSE
+CUSCO,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+DALLA,(UTC-06:00) Central Time (US & Canada),10,FALSE
+DAVAO,(UTC+08:00) Taipei,78,FALSE
+DENVE,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+DETRO,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+DMOIN,(UTC-06:00) Central Time (US & Canada),10,FALSE
+DPEAK,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+DRAPE,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+DUBAI,"(UTC+04:00) Abu Dhabi, Muscat",60,FALSE
+DUBLI,"(UTC+00:00) Dublin, Edinburgh, Lisbon, London",33,FALSE
+DURBA,"(UTC+02:00) Harare, Pretoria",47,FALSE
+EDINB,"(UTC+00:00) Dublin, Edinburgh, Lisbon, London",33,FALSE
+EDMON,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+EKET_,(UTC+01:00) West Central Africa,41,FALSE
+ELKO_,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+ELPAS,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+EPAUL,(UTC-03:00) Brasilia,24,FALSE
+EPHRA,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+FAIRB,(UTC-09:00) Alaska,4,FALSE
+FAIRV,(UTC-06:00) Central Time (US & Canada),10,FALSE
+FARMI,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+FEATH,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+FLAGS,(UTC-07:00) Arizona,8,FALSE
+FLORI,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",9,FALSE
+FORTA,"(UTC-03:00) Cayenne, Fortaleza",25,FALSE
+FORTC,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+FORTL,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+FORTW,(UTC-06:00) Central Time (US & Canada),10,FALSE
+FRANK,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+FREET,(UTC) Coordinated Universal Time,35,FALSE
+FREIB,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+FRESN,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+FUKUO,"(UTC+09:00) Osaka, Sapporo, Tokyo",84,FALSE
+GGC__,(UTC-06:00) Central America,12,FALSE
+GILAV,(UTC-07:00) Arizona,8,FALSE
+GILBE,(UTC-07:00) Arizona,8,FALSE
+GOIAN,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",9,FALSE
+GRNVL,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+GUADA,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+GUATE,(UTC-06:00) Central America,12,FALSE
+GUAYA,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+HAGUE,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+HALIF,(UTC-04:00) Atlantic Time (Canada),18,FALSE
+HAMBU,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+HARAR,"(UTC+02:00) Harare, Pretoria",47,FALSE
+HARRI,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+HARTF,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+HAWAI,(UTC-10:00) Hawaii,3,FALSE
+HEBER,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+HELEN,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+HELSI,"(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",45,FALSE
+HERMO,"(UTC-07:00) Chihuahua, La Paz, Mazatlan",9,TRUE
+HKONG,"(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",77,FALSE
+HONOL,(UTC-10:00) Hawaii,3,FALSE
+HOUST,(UTC-06:00) Central Time (US & Canada),10,FALSE
+HUANC,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+HUEHU,(UTC-06:00) Central America,12,FALSE
+HUNTS,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+IFALL,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+ILOIL,(UTC+08:00) Taipei,78,FALSE
+INDIA,(UTC-05:00) Indiana (East),15,FALSE
+IQUIT,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+JAKAR,"(UTC+07:00) Bangkok, Hanoi, Jakarta",75,FALSE
+JOAO_,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",9,FALSE
+JOHAN,"(UTC+02:00) Harare, Pretoria",47,FALSE
+JRIVE,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+JUCMX,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+JUNCT,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+JVILL,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+KAHUL,(UTC-10:00) Hawaii,3,FALSE
+KAMPA,(UTC+03:00) Nairobi,55,FALSE
+KANAN,"(UTC+02:00) Harare, Pretoria",47,FALSE
+KANSA,(UTC-06:00) Central Time (US & Canada),10,FALSE
+KAOHS,(UTC+08:00) Taipei,78,FALSE
+KINSH,(UTC+01:00) West Central Africa,41,FALSE
+KNOXV,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+KONA_,(UTC-10:00) Hawaii,3,FALSE
+KUMAS,(UTC) Coordinated Universal Time,35,FALSE
+KYIV_,"(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",45,FALSE
+LAGOS,(UTC+01:00) West Central Africa,41,FALSE
+LANGE,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+LAOAG,(UTC+08:00) Taipei,78,FALSE
+LAPAZ,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",19,FALSE
+LAYTO,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+LEHI_,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+LETHB,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+LIMA_,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+LIMLO,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+LINDO,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+LISBO,"(UTC+00:00) Dublin, Edinburgh, Lisbon, London",33,FALSE
+LMOUN,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+LOGAN,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+LONDO,"(UTC+00:00) Dublin, Edinburgh, Lisbon, London",33,FALSE
+LONDR,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",9,FALSE
+LOUIS,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+LPOOL,"(UTC+10:00) Canberra, Melbourne, Sydney",88,FALSE
+LUAND,(UTC+01:00) West Central Africa,41,FALSE
+LUBBO,(UTC-06:00) Central Time (US & Canada),10,FALSE
+LUBUM,"(UTC+02:00) Harare, Pretoria",47,FALSE
+LVEGA,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+MACEI,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",19,FALSE
+MADRI,"(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",39,FALSE
+MANAG,(UTC-06:00) Central America,12,FALSE
+MANAU,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",9,FALSE
+MANHA,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+MANIL,(UTC+08:00) Taipei,78,FALSE
+MANTI,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+MAPUT,"(UTC+02:00) Harare, Pretoria",47,FALSE
+MARAC,(UTC-04:00) Caracas,18,FALSE
+MBUJI,"(UTC+02:00) Harare, Pretoria",47,FALSE
+MCALL,(UTC-06:00) Central Time (US & Canada),10,FALSE
+MCKIN,(UTC-06:00) Central Time (US & Canada),10,FALSE
+MEDEL,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+MEDFO,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+MELBO,"(UTC+10:00) Canberra, Melbourne, Sydney",88,FALSE
+MEMPH,(UTC-06:00) Central Time (US & Canada),10,FALSE
+MENDO,(UTC-03:00) City of Buenos Aires,27,FALSE
+MERID,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+MEXIC,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+MIDAH,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+MILAN,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+MILWA,(UTC-06:00) Central Time (US & Canada),10,FALSE
+MIRAF,(UTC-06:00) Central America,12,FALSE
+MISSO,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+MNTVD,(UTC-03:00) Montevideo,28,FALSE
+MODES,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+MONRO,(UTC) Coordinated Universal Time,35,FALSE
+MONTE,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+MONTI,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+MONTP,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+MONTR,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+MOSAC,(UTC+03:00) Nairobi,55,FALSE
+MOSES,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+MTIMP,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+NAGA_,(UTC+08:00) Taipei,78,FALSE
+NAIRO,(UTC+03:00) Nairobi,55,FALSE
+NASHV,(UTC-06:00) Central Time (US & Canada),10,FALSE
+NATAL,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",9,FALSE
+NAUV2,(UTC-06:00) Central Time (US & Canada),10,FALSE
+NBEAC,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+NEIAF,(UTC+13:00) Nuku'alofa,98,FALSE
+NORFO,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+NOUME,"(UTC+11:00) Solomon Is., New Caledonia",93,FALSE
+NUKUA,(UTC+13:00) Nuku'alofa,98,FALSE
+NZEAL,"(UTC+12:00) Auckland, Wellington",96,FALSE
+OAKLA,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+OAXAC,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+OGDEN,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+OKINA,"(UTC+09:00) Osaka, Sapporo, Tokyo",84,FALSE
+OKLAH,(UTC-06:00) Central Time (US & Canada),10,FALSE
+OQUIR,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+OREM_,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+ORLAN,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+OSAKA,"(UTC+09:00) Osaka, Sapporo, Tokyo",84,FALSE
+OSLO_,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+PACHU,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+PAGO_,(UTC-11:00) Coordinated Universal Time-11,2,FALSE
+PALEG,(UTC-03:00) Brasilia,24,FALSE
+PALMY,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+PANAM,(UTC-05:00) Eastern Time (US & Canada),16,TRUE
+PAPEE,(UTC-10:00) Hawaii,3,FALSE
+PARIS,"(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",39,FALSE
+PAYSO,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+PERTH,(UTC+08:00) Perth,79,FALSE
+PHILA,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+PHNOM,"(UTC+07:00) Bangkok, Hanoi, Jakarta",75,FALSE
+PHOEN,(UTC-07:00) Arizona,8,FALSE
+PITTS,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+PIURA,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+PMONT,(UTC-04:00) Santiago,20,FALSE
+POCAT,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+PORTA,(UTC-05:00) Eastern Time (US & Canada),16,FALSE
+PORTL,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+PORTM,(UTC+10:00) Brisbane,89,FALSE
+PORTO,"(UTC+00:00) Dublin, Edinburgh, Lisbon, London",33,FALSE
+POTOS,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,FALSE
+PRAIA,(UTC-01:00) Cabo Verde Is.,128,FALSE
+PREST,"(UTC+00:00) Dublin, Edinburgh, Lisbon, London",33,FALSE
+PRICE,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+PROCC,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+PROVO,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+PUEBL,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+PVILA,"(UTC+11:00) Solomon Is., New Caledonia",93,FALSE
+QUEEN,(UTC-07:00) Arizona,8,FALSE
+QUERE,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,FALSE
+QUETZ,(UTC-06:00) Central America,12,FALSE
+QUITO,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+RALEI,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+RAPID,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+RAPSD,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+RCLIF,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+RECIF,(UTC-03:00) Brasilia,24,FALSE
+REDLA,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+REGIN,(UTC-06:00) Saskatchewan,11,FALSE
+RENO_,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+RETAL,(UTC-06:00) Central America,12,FALSE
+REXBN,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+REXBU,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+REYNO,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+RIBER,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",19,FALSE
+RICHM,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+RIODE,(UTC-03:00) Brasilia,7,FALSE
+ROANO,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+ROMEI,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+ROSAR,(UTC-03:00) City of Buenos Aires,27,FALSE
+RVERA,(UTC-03:00) Montevideo,28,FALSE
+SACRA,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+SALTA,(UTC-03:00) City of Buenos Aires,27,FALSE
+SALVA,(UTC-03:00) Brasilia,24,FALSE
+SANBR,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",19,FALSE
+SANDR,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",9,FALSE
+SANSA,(UTC-06:00) Central America,12,FALSE
+SANTA,(UTC-06:00) Central America,12,FALSE
+SANTI,(UTC-04:00) Santiago,20,FALSE
+SANTO,(UTC-06:00) Central Time (US & Canada),10,FALSE
+SAPPO,"(UTC+09:00) Osaka, Sapporo, Tokyo",84,FALSE
+SARAT,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+SAVAI,(UTC+13:00) Samoa,1,TRUE
+SBRIS,(UTC+10:00) Brisbane,89,FALSE
+SCRUZ,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",19,FALSE
+SDIEG,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+SDOMI,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",9,FALSE
+SEAT_,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+SEATT,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+SEOUL,(UTC+09:00) Seoul,83,FALSE
+SFORK,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+SGEOR,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+SHOUS,(UTC-06:00) Central Time (US & Canada),10,FALSE
+SINGA,"(UTC+08:00) Kuala Lumpur, Singapore ",81,FALSE
+SJCAL,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+SJDMO,(UTC+08:00) Taipei,78,FALSE
+SJOSE,(UTC-06:00) Central America,12,FALSE
+SJUAN,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",19,FALSE
+SLAKE,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+SLOUI,(UTC-06:00) Central Time (US & Canada),10,FALSE
+SMITH,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+SNOWF,(UTC-07:00) Arizona,8,FALSE
+SPAUL,(UTC-03:00) Brasilia,24,FALSE
+SPEDR,(UTC-06:00) Central America,12,FALSE
+SPHIL,(UTC+08:00) Taipei,78,FALSE
+SPMIN,(UTC-06:00) Central Time (US & Canada),10,FALSE
+SPOKA,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+SPRIN,(UTC-06:00) Central Time (US & Canada),10,FALSE
+STARV,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+STOCK,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+SUMMI,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+SUVA_,(UTC+12:00) Fiji,95,TRUE
+SWEST,(UTC-04:00) Santiago,20,FALSE
+SWISS,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+SYDNE,"(UTC+10:00) Canberra, Melbourne, Sydney",88,FALSE
+SYRAC,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+TACLO,(UTC+08:00) Taipei,78,FALSE
+TACOM,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+TAIPE,(UTC+08:00) Taipei,78,FALSE
+TALLA,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+TAMPA,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+TAMPI,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+TARAW,"(UTC+12:00) Auckland, Wellington",96,FALSE
+TAYLO,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+TEGUC,(UTC-06:00) Central America,12,FALSE
+TERES,(UTC-03:00) Brasilia,24,FALSE
+TEST6,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+TEST7,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+TEST8,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+TETON,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+TGUTI,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+TIJUA,(UTC-08:00) Baja California,5,FALSE
+TOKYO,"(UTC+09:00) Osaka, Sapporo, Tokyo",84,FALSE
+TOLUC,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+TORON,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+TORRE,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,FALSE
+TRUJI,"(UTC-05:00) Bogota, Lima, Quito, Rio Branco",16,FALSE
+TUCSO,(UTC-07:00) Arizona,8,FALSE
+TUGUE,(UTC+08:00) Taipei,78,FALSE
+TULA_,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+TULSA,(UTC-06:00) Central Time (US & Canada),10,FALSE
+TWINF,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+UKBIR,"(UTC+00:00) Dublin, Edinburgh, Lisbon, London",33,FALSE
+ULAAN,((UTC+07:00) Hovd),75,FALSE
+URDAN,(UTC+08:00) Taipei,78,FALSE
+UTURO,(UTC-09:00) Alaska,4,FALSE
+UYO__,(UTC+01:00) West Central Africa,41,FALSE
+VANCO,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+VANWA,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+VERAC,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+VERNA,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+VICTO,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+VIENN,"(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",40,FALSE
+VILLA,"(UTC-06:00) Guadalajara, Mexico City, Monterrey",13,TRUE
+VINA_,(UTC-04:00) Santiago,20,FALSE
+VITOR,"(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",19,FALSE
+WASHI,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+WELLI,"(UTC+12:00) Auckland, Wellington",96,FALSE
+WICHI,(UTC-06:00) Central Time (US & Canada),10,FALSE
+WILLA,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+WINCH,(UTC-05:00) Eastern Time (US & Canada),14,FALSE
+WINNI,(UTC-06:00) Central Time (US & Canada),10,FALSE
+WINTE,(UTC-06:00) Central Time (US & Canada),10,FALSE
+WJORD,(UTC-07:00) Mountain Time (US & Canada),7,FALSE
+YIGO_,"(UTC+10:00) Guam, Port Moresby",92,FALSE
+YORBA,(UTC-08:00) Pacific Time (US & Canada),5,FALSE
+YUMA_,(UTC-07:00) Arizona,8,FALSE

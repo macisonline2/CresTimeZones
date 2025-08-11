@@ -1,0 +1,2126 @@
+[
+  {
+    "SiteName": "ABA__",
+    "TimeZoneDisplayName10": "(UTC+01:00) West Central Africa",
+    "CrestronTimeZoneId": 41,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ABIDJ",
+    "TimeZoneDisplayName10": "(UTC) Coordinated Universal Time",
+    "CrestronTimeZoneId": 35,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ACCRA",
+    "TimeZoneDisplayName10": "(UTC) Coordinated Universal Time",
+    "CrestronTimeZoneId": 35,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ADELA",
+    "TimeZoneDisplayName10": "(UTC+09:30) Adelaide",
+    "CrestronTimeZoneId": 87,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ALABA",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ALBER",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ALBUQ",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ANCHO",
+    "TimeZoneDisplayName10": "(UTC-09:00) Alaska",
+    "CrestronTimeZoneId": 4,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ANTAN",
+    "TimeZoneDisplayName10": "(UTC+03:00) Nairobi",
+    "CrestronTimeZoneId": 55,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ANTOF",
+    "TimeZoneDisplayName10": "(UTC-04:00) Santiago",
+    "CrestronTimeZoneId": 20,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "APIA_",
+    "TimeZoneDisplayName10": "(UTC+13:00) Samoa",
+    "CrestronTimeZoneId": 1,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "AREQU",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ARIZO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Arizona",
+    "CrestronTimeZoneId": 8,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ASUNC",
+    "TimeZoneDisplayName10": "(UTC-04:00) Asuncion",
+    "CrestronTimeZoneId": 22,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ATLAN",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "AUCKL",
+    "TimeZoneDisplayName10": "(UTC+12:00) Auckland, Wellington",
+    "CrestronTimeZoneId": 96,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "AUSTI",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BACOL",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BACCA",
+    "TimeZoneDisplayName10": "(UTC-03:00) City of Buenos Aires",
+    "CrestronTimeZoneId": 27,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BAHIA",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BAIRE",
+    "TimeZoneDisplayName10": "(UTC-03:00) City of Buenos Aires",
+    "CrestronTimeZoneId": 27,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BAKER",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BANGK",
+    "TimeZoneDisplayName10": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "CrestronTimeZoneId": 75,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BARCE",
+    "TimeZoneDisplayName10": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "CrestronTimeZoneId": 33,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BARRA",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BEIRA",
+    "TimeZoneDisplayName10": "(UTC+02:00) Harare, Pretoria",
+    "CrestronTimeZoneId": 47,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BELEM",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BELO_",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BENEM",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BENGA",
+    "TimeZoneDisplayName10": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+    "CrestronTimeZoneId": 68,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BENIN",
+    "TimeZoneDisplayName10": "(UTC+01:00) West Central Africa",
+    "CrestronTimeZoneId": 41,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BENTO",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BILLI",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BIRMI",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BISMA",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BOGOT",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BOISE",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BOSTO",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BOUNT",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BRASI",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 19,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BRAZZ",
+    "TimeZoneDisplayName10": "(UTC+01:00) West Central Africa",
+    "CrestronTimeZoneId": 41,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BRIGH",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BRISB",
+    "TimeZoneDisplayName10": "(UTC+10:00) Brisbane",
+    "CrestronTimeZoneId": 89,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BROUG",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BRUSS",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 39,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BUDAP",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 37,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BURLE",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "BUSAN",
+    "TimeZoneDisplayName10": "(UTC+09:00) Seoul",
+    "CrestronTimeZoneId": 83,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CAGAY",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CALAB",
+    "TimeZoneDisplayName10": "(UTC+01:00) West Central Africa",
+    "CrestronTimeZoneId": 41,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CALGA",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CALI_",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CAMPI",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CANCU",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "CAPEC",
+    "TimeZoneDisplayName10": "(UTC) Coordinated Universal Time",
+    "CrestronTimeZoneId": 35,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CAPET",
+    "TimeZoneDisplayName10": "(UTC+02:00) Harare, Pretoria",
+    "CrestronTimeZoneId": 47,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CARAC",
+    "TimeZoneDisplayName10": "(UTC-04:00) Caracas",
+    "CrestronTimeZoneId": 18,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CASPE",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CEBUP",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CEDAR",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CHARL",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CHICA",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CHICL",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CHIHU",
+    "TimeZoneDisplayName10": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "CINCI",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CIUJU",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CLEVE",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "COBAN",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "COCHA",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 19,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CODY_",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "COLJU",
+    "TimeZoneDisplayName10": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "COLOR",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "COLSC",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "COLUM",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CONCE",
+    "TimeZoneDisplayName10": "(UTC-04:00) Santiago",
+    "CrestronTimeZoneId": 20,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "COPEN",
+    "TimeZoneDisplayName10": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "CrestronTimeZoneId": 39,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CORDO",
+    "TimeZoneDisplayName10": "(UTC-03:00) City of Buenos Aires",
+    "CrestronTimeZoneId": 27,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CRIVE",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CUERN",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CULIA",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CURIT",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "CUSCO",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "DALLA",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "DAVAO",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "DENVE",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "DETRO",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "DMOIN",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "DPEAK",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "DRAPE",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "DUBAI",
+    "TimeZoneDisplayName10": "(UTC+04:00) Abu Dhabi, Muscat",
+    "CrestronTimeZoneId": 60,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "DURBA",
+    "TimeZoneDisplayName10": "(UTC+02:00) Harare, Pretoria",
+    "CrestronTimeZoneId": 47,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "EDINB",
+    "TimeZoneDisplayName10": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "CrestronTimeZoneId": 33,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "EDMON",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "EKET",
+    "TimeZoneDisplayName10": "(UTC+01:00) West Central Africa",
+    "CrestronTimeZoneId": 41,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ELKO_",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "EPAUL",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "EPHRA",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FAIRB",
+    "TimeZoneDisplayName10": "(UTC-09:00) Alaska",
+    "CrestronTimeZoneId": 4,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FARMI",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FEATH",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FLORI",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FORTA",
+    "TimeZoneDisplayName10": "(UTC-03:00) Cayenne, Fortaleza",
+    "CrestronTimeZoneId": 25,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FORTC",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FORTL",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FORTW",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FRANK",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 40,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FREET",
+    "TimeZoneDisplayName10": "(UTC) Coordinated Universal Time",
+    "CrestronTimeZoneId": 35,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FREIB",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 40,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FRESN",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "FUKUO",
+    "TimeZoneDisplayName10": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "CrestronTimeZoneId": 84,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "GGC__",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "GILAV",
+    "TimeZoneDisplayName10": "(UTC-07:00) Arizona",
+    "CrestronTimeZoneId": 8,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "GILBE",
+    "TimeZoneDisplayName10": "(UTC-07:00) Arizona",
+    "CrestronTimeZoneId": 8,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "GOIAN",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "GUADA",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "GUATE",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "GUAYA",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HAGUE",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 40,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HALIF",
+    "TimeZoneDisplayName10": "(UTC-04:00) Atlantic Time (Canada)",
+    "CrestronTimeZoneId": 18,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HAMBU",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 40,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HARAR",
+    "TimeZoneDisplayName10": "(UTC+02:00) Harare, Pretoria",
+    "CrestronTimeZoneId": 47,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HARRI",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HARTF",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HAWAI",
+    "TimeZoneDisplayName10": "(UTC-10:00) Hawaii",
+    "CrestronTimeZoneId": 3,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HEBER",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HELEN",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HELSI",
+    "TimeZoneDisplayName10": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "CrestronTimeZoneId": 45,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HERMO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "HKONG",
+    "TimeZoneDisplayName10": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+    "CrestronTimeZoneId": 77,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HONOL",
+    "TimeZoneDisplayName10": "(UTC-10:00) Hawaii",
+    "CrestronTimeZoneId": 3,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HOUST",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HUANC",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "HUEHU",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "IFALL",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ILOIL",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "INDIA",
+    "TimeZoneDisplayName10": "(UTC-05:00) Indiana (East)",
+    "CrestronTimeZoneId": 15,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "IQUIT",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "JAKAR",
+    "TimeZoneDisplayName10": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "CrestronTimeZoneId": 75,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "JOAO_",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "JOHAN",
+    "TimeZoneDisplayName10": "(UTC+02:00) Harare, Pretoria",
+    "CrestronTimeZoneId": 47,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "JRIVE",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "JUNCT",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "JVILL",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "KAHUL",
+    "TimeZoneDisplayName10": "(UTC-10:00) Hawaii",
+    "CrestronTimeZoneId": 3,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "KANAN",
+    "TimeZoneDisplayName10": "(UTC+02:00) Harare, Pretoria",
+    "CrestronTimeZoneId": 47,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "KANSA",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "KAOHS",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "KINSH",
+    "TimeZoneDisplayName10": "(UTC+01:00) West Central Africa",
+    "CrestronTimeZoneId": 41,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "KNOXV",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "KONA_",
+    "TimeZoneDisplayName10": "(UTC-10:00) Hawaii",
+    "CrestronTimeZoneId": 3,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "KUMAS",
+    "TimeZoneDisplayName10": "(UTC) Coordinated Universal Time",
+    "CrestronTimeZoneId": 35,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "KYIV_",
+    "TimeZoneDisplayName10": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "CrestronTimeZoneId": 45,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LAGOS",
+    "TimeZoneDisplayName10": "(UTC+01:00) West Central Africa",
+    "CrestronTimeZoneId": 41,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LANGE",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LAOAG",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LAPAZ",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 19,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LAYTO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LEHI_",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LETHB",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LIMA_",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LIMLO",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LINDO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LISBO",
+    "TimeZoneDisplayName10": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "CrestronTimeZoneId": 33,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LMOUN",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LOGAN",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LONDO",
+    "TimeZoneDisplayName10": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "CrestronTimeZoneId": 33,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LONDR",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LOUIS",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LUAND",
+    "TimeZoneDisplayName10": "(UTC+01:00) West Central Africa",
+    "CrestronTimeZoneId": 41,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LUBBO",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LUBUM",
+    "TimeZoneDisplayName10": "(UTC+02:00) Harare, Pretoria",
+    "CrestronTimeZoneId": 47,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "LVEGA",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MACEI",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 19,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MADRI",
+    "TimeZoneDisplayName10": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "CrestronTimeZoneId": 39,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MANAG",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MANAU",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MANHA",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MANIL",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MANTI",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MARAC",
+    "TimeZoneDisplayName10": "(UTC-04:00) Caracas",
+    "CrestronTimeZoneId": 18,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MBUJI",
+    "TimeZoneDisplayName10": "(UTC+02:00) Harare, Pretoria",
+    "CrestronTimeZoneId": 47,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MCALL",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MCKIN",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MEDFO",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MELBO",
+    "TimeZoneDisplayName10": "(UTC+10:00) Canberra, Melbourne, Sydney",
+    "CrestronTimeZoneId": 88,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MEMPH",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MENDO",
+    "TimeZoneDisplayName10": "(UTC-03:00) City of Buenos Aires",
+    "CrestronTimeZoneId": 27,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MERID",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "MEXIC",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "MIDAH",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MIRAF",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MISSO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MNTVD",
+    "TimeZoneDisplayName10": "(UTC-03:00) Montevideo",
+    "CrestronTimeZoneId": 28,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MODES",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MONRO",
+    "TimeZoneDisplayName10": "(UTC) Coordinated Universal Time",
+    "CrestronTimeZoneId": 35,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MONTE",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "MONTI",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MONTP",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MONTR",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MOSES",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "MTIMP",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "NAGA_",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "NAIRO",
+    "TimeZoneDisplayName10": "(UTC+03:00) Nairobi",
+    "CrestronTimeZoneId": 55,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "NASHV",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "NAUV2",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "NATAL",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "NBEAC",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "NEIAF",
+    "TimeZoneDisplayName10": "(UTC+13:00) Nuku'alofa",
+    "CrestronTimeZoneId": 98,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "NUKUA",
+    "TimeZoneDisplayName10": "(UTC+13:00) Nuku'alofa",
+    "CrestronTimeZoneId": 98,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "NZEAL",
+    "TimeZoneDisplayName10": "(UTC+12:00) Auckland, Wellington",
+    "CrestronTimeZoneId": 96,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "OAKLA",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "OAXAC",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "OGDEN",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "OKINA",
+    "TimeZoneDisplayName10": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "CrestronTimeZoneId": 84,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "OKLAH",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "OQUIR",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "OREM_",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ORLAN",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "OSAKA",
+    "TimeZoneDisplayName10": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "CrestronTimeZoneId": 84,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "OSLO_",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 40,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PACHU",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "PAGO_",
+    "TimeZoneDisplayName10": "(UTC-11:00) Coordinated Universal Time-11",
+    "CrestronTimeZoneId": 2,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PALEG",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PALMY",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PANAM",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "PAPEE",
+    "TimeZoneDisplayName10": "(UTC-10:00) Hawaii",
+    "CrestronTimeZoneId": 3,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PARIS",
+    "TimeZoneDisplayName10": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "CrestronTimeZoneId": 39,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PAYSO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PERTH",
+    "TimeZoneDisplayName10": "(UTC+08:00) Perth",
+    "CrestronTimeZoneId": 79,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PHILA",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PHNOM",
+    "TimeZoneDisplayName10": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "CrestronTimeZoneId": 75,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PHOEN",
+    "TimeZoneDisplayName10": "(UTC-07:00) Arizona",
+    "CrestronTimeZoneId": 8,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PITTS",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PIURA",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "POCAT",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PORTA",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PORTL",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PORTM",
+    "TimeZoneDisplayName10": "(UTC+10:00) Brisbane",
+    "CrestronTimeZoneId": 89,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "POTOS",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PRAIA",
+    "TimeZoneDisplayName10": "(UTC-01:00) Cabo Verde Is.",
+    "CrestronTimeZoneId": 128,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PREST",
+    "TimeZoneDisplayName10": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "CrestronTimeZoneId": 33,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PROCC",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PROVO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "PUEBL",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "PVILA",
+    "TimeZoneDisplayName10": "(UTC+11:00) Solomon Is., New Caledonia",
+    "CrestronTimeZoneId": 93,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "QUERE",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "QUETZ",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "QUITO",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "RALEI",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "RAPID",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "RCLIF",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "RECIF",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "REDLA",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "REGIN",
+    "TimeZoneDisplayName10": "(UTC-06:00) Saskatchewan",
+    "CrestronTimeZoneId": 11,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "RENO_",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "RETAL",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "REXBN",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "REXBU",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "RIBER",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 19,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "RICHM",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "RIODE",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ROANO",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ROMEI",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 40,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ROSAR",
+    "TimeZoneDisplayName10": "(UTC-03:00) City of Buenos Aires",
+    "CrestronTimeZoneId": 27,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SACRA",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SALTA",
+    "TimeZoneDisplayName10": "(UTC-03:00) City of Buenos Aires",
+    "CrestronTimeZoneId": 27,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SALVA",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SANBR",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 19,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SANSA",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SANTI",
+    "TimeZoneDisplayName10": "(UTC-04:00) Santiago",
+    "CrestronTimeZoneId": 20,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SANTO",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SAPPO",
+    "TimeZoneDisplayName10": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "CrestronTimeZoneId": 84,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SARAT",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SAVAI",
+    "TimeZoneDisplayName10": "(UTC+13:00) Samoa",
+    "CrestronTimeZoneId": 1,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "SBRIS",
+    "TimeZoneDisplayName10": "(UTC+10:00) Brisbane",
+    "CrestronTimeZoneId": 89,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SCRUZ",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 19,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SDIEG",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SDOMI",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 9,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SEAT_",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SEATT",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SEOUL",
+    "TimeZoneDisplayName10": "(UTC+09:00) Seoul",
+    "CrestronTimeZoneId": 83,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SGEOR",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SHOUS",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SINGA",
+    "TimeZoneDisplayName10": "(UTC+08:00) Kuala Lumpur, Singapore ",
+    "CrestronTimeZoneId": 81,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SJCAL",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SJOSE",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SJUAN",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 19,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SLAKE",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SLOUI",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SMITH",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SNOWF",
+    "TimeZoneDisplayName10": "(UTC-07:00) Arizona",
+    "CrestronTimeZoneId": 8,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SPAUL",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SPEDR",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SPHIL",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SPMIN",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SPOKA",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SPRIN",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "STARV",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "STOCK",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 40,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SUVA_",
+    "TimeZoneDisplayName10": "(UTC+12:00) Fiji",
+    "CrestronTimeZoneId": 95,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "SWEST",
+    "TimeZoneDisplayName10": "(UTC-04:00) Santiago",
+    "CrestronTimeZoneId": 20,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SWISS",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 40,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SYDNE",
+    "TimeZoneDisplayName10": "(UTC+10:00) Canberra, Melbourne, Sydney",
+    "CrestronTimeZoneId": 88,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "SYRAC",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TACLO",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TACOM",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TAIPE",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TALLA",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TAMPA",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TAMPI",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "TARAW",
+    "TimeZoneDisplayName10": "(UTC+12:00) Auckland, Wellington",
+    "CrestronTimeZoneId": 96,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TAYLO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TEGUC",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central America",
+    "CrestronTimeZoneId": 12,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TERES",
+    "TimeZoneDisplayName10": "(UTC-03:00) Brasilia",
+    "CrestronTimeZoneId": 24,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TEST6",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TEST7",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TEST8",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TETON",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TGUTI",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "TIJUA",
+    "TimeZoneDisplayName10": "(UTC-08:00) Baja California",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TOLUC",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "TOKYO",
+    "TimeZoneDisplayName10": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "CrestronTimeZoneId": 84,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TORON",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TORRE",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TRUJI",
+    "TimeZoneDisplayName10": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "CrestronTimeZoneId": 16,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TUCSO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Arizona",
+    "CrestronTimeZoneId": 8,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TUGUE",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TULA_",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "TULSA",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "TWINF",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "UKBIR",
+    "TimeZoneDisplayName10": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "CrestronTimeZoneId": 33,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "ULAAN",
+    "TimeZoneDisplayName10": "((UTC+07:00) Hovd)",
+    "CrestronTimeZoneId": 75,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "URDAN",
+    "TimeZoneDisplayName10": "(UTC+08:00) Taipei",
+    "CrestronTimeZoneId": 78,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "UTURO",
+    "TimeZoneDisplayName10": "(UTC-09:00) Alaska",
+    "CrestronTimeZoneId": 4,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "VANCO",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "VANWA",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "VERAC",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "VERNA",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "VICTO",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "VIENN",
+    "TimeZoneDisplayName10": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "CrestronTimeZoneId": 40,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "VILLA",
+    "TimeZoneDisplayName10": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "CrestronTimeZoneId": 13,
+    "IgnoreDaylightSavingRules": true
+  },
+  {
+    "SiteName": "VINA_",
+    "TimeZoneDisplayName10": "(UTC-04:00) Santiago",
+    "CrestronTimeZoneId": 20,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "VITOR",
+    "TimeZoneDisplayName10": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "CrestronTimeZoneId": 19,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "WASHI",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "WELLI",
+    "TimeZoneDisplayName10": "(UTC+12:00) Auckland, Wellington",
+    "CrestronTimeZoneId": 96,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "WICHI",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "WILLA",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "WINCH",
+    "TimeZoneDisplayName10": "(UTC-05:00) Eastern Time (US & Canada)",
+    "CrestronTimeZoneId": 14,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "WINNI",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "WINTE",
+    "TimeZoneDisplayName10": "(UTC-06:00) Central Time (US & Canada)",
+    "CrestronTimeZoneId": 10,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "WJORD",
+    "TimeZoneDisplayName10": "(UTC-07:00) Mountain Time (US & Canada)",
+    "CrestronTimeZoneId": 7,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "YIGO_",
+    "TimeZoneDisplayName10": "(UTC+10:00) Guam, Port Moresby",
+    "CrestronTimeZoneId": 92,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "YORBA",
+    "TimeZoneDisplayName10": "(UTC-08:00) Pacific Time (US & Canada)",
+    "CrestronTimeZoneId": 5,
+    "IgnoreDaylightSavingRules": false
+  },
+  {
+    "SiteName": "YUMA_",
+    "TimeZoneDisplayName10": "(UTC-07:00) Arizona",
+    "CrestronTimeZoneId": 8,
+    "IgnoreDaylightSavingRules": false
+  }
+]
