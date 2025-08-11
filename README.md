@@ -1,3 +1,5 @@
+Procedure to update the SiteTimeZones.json file
+
 Collect old and new data files
 	1. Open Teams and download the file SiteTimeZones.json from the channel AVE Portfolio/Standards in the Files/Design Team folder. 
 	2. Convert the json file into a csv file by running the Python program. Input  SiteTimeZones.json and output file name old_SiteTimeZones.csv. 
