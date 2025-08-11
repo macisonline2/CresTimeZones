@@ -12,4 +12,4 @@ Create the new json file
 	1. Run the Python program 'Convert csv to json.py'. The input should be old_SiteTimeZones.csv and the output SiteTimeZones.json for distribution. (Keep a backup copy in an archive.)
 	2. Copy the new file into the channel AVE Portfolio/Standards in the Files/Design Team folder. 
 
-<img width="805" height="445" alt="image" src="https://github.com/user-attachments/assets/43e7ef20-b055-4330-bdba-6cf696952608" />
+
